@@ -1,0 +1,31 @@
+.cook{
+    margin: 30px 20px;
+    width: 300px;
+    height: 340px;
+    border: 1px solid burlywood;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 5px 5px 10px rgb(148, 143, 143);
+    position: relative;
+
+}
+.foot{
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+.container{
+    margin-top: 1px;
+    height: 500px;   
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+.line{
+    border-bottom-style: inset;
+    width: 8%;
+    height: 20px;
+    margin-left: 200px;
+}
